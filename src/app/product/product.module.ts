@@ -7,9 +7,7 @@ import {ProductComponent} from "./product.component";
   declarations: [
     ProductComponent,
   ],
-  imports: [
-    BrowserModule,
-  ],
+  imports: [],
   providers: [],
   exports: [
     ProductComponent

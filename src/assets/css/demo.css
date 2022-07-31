@@ -704,9 +704,6 @@
     top: 100px;
     max-height: 80vh;
     position: -webkit-sticky;
-  /*  position: -moz-sticky;
-    position: -ms-sticky;
-    position: -o-sticky;*/
     position: sticky;
     bottom: auto;
 }
@@ -866,8 +863,7 @@ pre.prettyprint {
 
 .down-2x {
     transform: translate(0, 90px);
-    -moz-transform: translate(0, 90px);
-    -webkit-transform: translate(0, 90px);
+
 }
 
 .navbar-default.navbar-small .logo-container .brand {

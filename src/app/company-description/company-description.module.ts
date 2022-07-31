@@ -7,9 +7,7 @@ import {CompanyDescriptionComponent} from "./company-description.component";
   declarations: [
     CompanyDescriptionComponent,
   ],
-  imports: [
-    BrowserModule,
-  ],
+  imports: [],
   providers: [],
   exports: [
     CompanyDescriptionComponent

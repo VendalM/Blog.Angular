@@ -500,3 +500,7 @@
 .navbar-hidden{
     display: none;
 }
+
+.navbar-expand-lg .navbar-collapse{
+  justify-content: flex-end;
+}

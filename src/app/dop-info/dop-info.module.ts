@@ -7,9 +7,7 @@ import {DopInfoComponent} from "./dop-info.component";
   declarations: [
     DopInfoComponent,
   ],
-  imports: [
-    BrowserModule,
-  ],
+  imports: [],
   providers: [],
   exports: [
     DopInfoComponent

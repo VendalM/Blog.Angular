@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
 
 import {MainBannerComponent} from "./main-banner.component";
 
@@ -7,9 +6,7 @@ import {MainBannerComponent} from "./main-banner.component";
   declarations: [
     MainBannerComponent,
   ],
-  imports: [
-    BrowserModule,
-  ],
+  imports: [],
   providers: [],
   exports: [
     MainBannerComponent
